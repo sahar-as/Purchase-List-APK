@@ -26,7 +26,7 @@ It is implemented with MVVM Design pattern and with using of bellow libraries: <
  - <b>Add and Edit Fragment:</b> <br /><br /> 
 <p align="center"><img src="https://user-images.githubusercontent.com/63088252/172870167-43611687-2d81-47bd-a6d8-ef917e62565e.png" /> </p><br />
 
- - <b>Delete Item and Undo it:</b> <br /><br /> 
+ - <b>Delete Item and Undo SnakBar</b> <br /><br /> 
 <p align="center"><img src="https://user-images.githubusercontent.com/63088252/172875909-9e3bce73-2ce4-4177-a7f4-eef2f92c5f72.jpg" /> <img src="https://user-images.githubusercontent.com/63088252/172876392-194e1aee-0e7c-480b-8c37-87919082dbb7.png" /></p><br />
 
  - <b>Menu Options:</b> <br /><br /> 
