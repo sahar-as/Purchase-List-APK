@@ -17,13 +17,14 @@ It is implemented with MVVM Design pattern and with using of bellow libraries: <
  ### 📺 App Screenshot
  <br />
  - <b>Main Activity & Fragment:</b> <br /><br /> 
-<p align="center"><img src="https://user-images.githubusercontent.com/63088252/172867863-8ca45589-9c95-4d67-9645-bd482ac1d0e0.png" /> <img src="https://user-images.githubusercontent.com/63088252/172867873-5174e885-c285-4c11-a197-f73aab2d0bb3.png" /></p><br />
+<p align="center"><img src="https://user-images.githubusercontent.com/63088252/172870007-2270b2f3-4db2-47d5-b36b-0d0d7500e87c.png" /> <img src="https://user-images.githubusercontent.com/63088252/172870016-e9749313-06cc-419d-b179-03a9265f4f10.png" /></p><br />
 
  - <b>Search Option::</b> <br /><br />
-<p align="center"><img src="https://user-images.githubusercontent.com/63088252/172868164-70367312-4521-4c82-a758-b580521ccdc4.png" /> <img src="https://user-images.githubusercontent.com/63088252/172868172-e81800e2-193f-468c-bc54-52e44fb585b4.png" /> <img src="https://user-images.githubusercontent.com/63088252/172868177-67abb64b-7737-4996-af9d-eb1244b14cd5.png" /></p><br />
+<p align="center"><img src="https://user-images.githubusercontent.com/63088252/172870088-21cb0658-e133-4041-b800-de14e46387a8.png" /> <img src="https://user-images.githubusercontent.com/63088252/172870094-ee8b5f11-f180-42f0-ae32-02925cf0245e.png" /> <img src="https://user-images.githubusercontent.com/63088252/172870097-04a6dab4-1772-46e8-8237-174f125a408a.png" /></p><br />
 
  - <b>Add abd Edit Fragment:</b> <br /><br /> 
-<p align="center"><img src="https://user-images.githubusercontent.com/63088252/172868817-431af7be-9806-4f4f-b47b-e7e178f5d5e2.png" /> </p><br />
+<p align="center"><img src="https://user-images.githubusercontent.com/63088252/172870167-43611687-2d81-47bd-a6d8-ef917e62565e.png" /> </p><br />
 
  - <b>Menu Options:</b> <br /><br /> 
-<p align="center"><img src="https://user-images.githubusercontent.com/63088252/172868549-21742bc0-31eb-40d8-9900-7ecc4b7dbe35.png" /> <img src="https://user-images.githubusercontent.com/63088252/172868561-4e28b515-5b37-4c58-90f3-4cc50f8568ab.png" /><img src="https://user-images.githubusercontent.com/63088252/172868566-fe8d8db6-131e-4bdd-bffe-784320960498.png" /></p><br />
+<p align="center"><img src="https://user-images.githubusercontent.com/63088252/172870137-22e0593d-cf87-4a12-a091-0074928aedd7.png" /> <img src="https://user-images.githubusercontent.com/63088252/172870144-004338da-4421-4532-b608-208068fb1493.png" /><img src="https://user-images.githubusercontent.com/63088252/172870147-8b21673c-91db-4e05-915b-c14bdf8d9c84.png" /></p><br />
+
