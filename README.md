@@ -15,7 +15,7 @@ It is implemented with MVVM Design pattern and with using of bellow libraries: <
 
  <br />
  
- ### App Screenshot
+ ### 📺 App Screenshot
  <br />
  - <b>Main Activity & Fragment:</b> <br /><br /> 
 <p align="center"><img src="https://user-images.githubusercontent.com/63088252/172870007-2270b2f3-4db2-47d5-b36b-0d0d7500e87c.png" /> <img src="https://user-images.githubusercontent.com/63088252/172870016-e9749313-06cc-419d-b179-03a9265f4f10.png" /></p><br />
