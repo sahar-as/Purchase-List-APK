@@ -14,7 +14,7 @@ It is implemented with MVVM Design pattern and with using of bellow libraries: <
 - Datastore Preferences
 
  <br />
- ### 📺 App Screenshot
+ ### 📺App Screenshot
  <br />
  - <b>Main Activity & Fragment:</b> <br /><br /> 
 <p align="center"><img src="https://user-images.githubusercontent.com/63088252/172870007-2270b2f3-4db2-47d5-b36b-0d0d7500e87c.png" /> <img src="https://user-images.githubusercontent.com/63088252/172870016-e9749313-06cc-419d-b179-03a9265f4f10.png" /></p><br />
@@ -26,5 +26,5 @@ It is implemented with MVVM Design pattern and with using of bellow libraries: <
 <p align="center"><img src="https://user-images.githubusercontent.com/63088252/172870167-43611687-2d81-47bd-a6d8-ef917e62565e.png" /> </p><br />
 
  - <b>Menu Options:</b> <br /><br /> 
-<p align="center"><img src="https://user-images.githubusercontent.com/63088252/172870137-22e0593d-cf87-4a12-a091-0074928aedd7.png" /> <img src="https://user-images.githubusercontent.com/63088252/172870144-004338da-4421-4532-b608-208068fb1493.png" /><img src="https://user-images.githubusercontent.com/63088252/172870147-8b21673c-91db-4e05-915b-c14bdf8d9c84.png" /></p><br />
+<p align="center"><img src="https://user-images.githubusercontent.com/63088252/172870147-8b21673c-91db-4e05-915b-c14bdf8d9c84.png" /><img src="https://user-images.githubusercontent.com/63088252/172870137-22e0593d-cf87-4a12-a091-0074928aedd7.png" /> <img src="https://user-images.githubusercontent.com/63088252/172870144-004338da-4421-4532-b608-208068fb1493.png" /></p><br />
 
