@@ -4,7 +4,7 @@
   <img src="https://user-images.githubusercontent.com/63088252/172844798-a3f544c3-bcc3-4b25-bf4d-39c5f9bb6eb1.jpg"/>
 </p>
 
-It is an Android application implemented with Kotlin programming language. With Purchase List App You are able to create a list of goods of which you want to buy. <br />
+It is an Android application implemented with Kotlin programming language. With Purchase List App You are able to create a list of goods that you want to buy. <br />
 It is implemented with MVVM Design pattern and with using of bellow libraries: <br />
 
 - Room
@@ -14,7 +14,8 @@ It is implemented with MVVM Design pattern and with using of bellow libraries: <
 - Datastore Preferences
 
  <br />
- ### App Screenshot 📺
+ 
+ ### App Screenshot
  <br />
  - <b>Main Activity & Fragment:</b> <br /><br /> 
 <p align="center"><img src="https://user-images.githubusercontent.com/63088252/172870007-2270b2f3-4db2-47d5-b36b-0d0d7500e87c.png" /> <img src="https://user-images.githubusercontent.com/63088252/172870016-e9749313-06cc-419d-b179-03a9265f4f10.png" /></p><br />
